@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024-04-20-test title.MARKUP"
+title:  "2024-04-20-test_title.MARKUP"
 date:   2024-04-20 21:00:50 +0900
 categories: jekyll update
 ---
